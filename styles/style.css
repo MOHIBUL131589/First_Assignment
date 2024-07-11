@@ -214,3 +214,46 @@
     color:#0D1321;
     background-color: rgba(255, 221, 0, 0.059);
 }
+
+
+/*This is the fifth phase of compeleting my portfolio*/
+
+
+
+.developers-support{
+    background: url(../assets/handshake.jpg) no-repeat,center;
+    margin:0px;
+    padding:0px;
+    width: 100%;
+    height: 800px;
+    align-items: center;
+    
+
+}
+.developers-input{
+    display: flex;
+    justify-content: center;
+    padding: 44px 48px;
+   
+
+
+}
+.developers-matha{
+    padding-top: 280px;
+}
+
+.developers-suggestion{
+    width: 548px;
+    padding: 19px;
+    margin-right: 16px;
+
+}
+.developers-submit{
+    width:120px;
+    padding: 17px 20px;
+    color:#0D1321;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 20;
+    font-weight: bold;
+}
