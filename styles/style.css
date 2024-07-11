@@ -48,3 +48,65 @@
     margin:0;
     
 }
+
+
+/* second part of the portfolio*/
+
+.development{
+    padding: 80px 97px 80px 97px;
+    width:1140px;
+    margin: 50px auto auto auto;
+    border:1px solid rgb(224, 255, 255);
+    box-shadow: 0 4px 8px #0d132100;
+}
+
+.development-header{
+    text-align: center;
+    width: 852px;
+    margin: 0 auto;
+
+}
+
+.development-head{
+    font-size: 32px;
+    font-weight: 800px;
+}
+
+.development-info{
+    padding: 32px;
+    width:477px;
+
+}
+
+.development-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.development-subtitle{
+    font-size: 16px;
+    color: #0D1321;
+}
+
+.development-button{
+    width: 131px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 20px 12px 20px;
+    border: 1px solid rgba(7, 7, 15, 0.459);
+    
+}
+.development-first-block, .development-second-block, .development-third-block{
+    padding: 48px 48px 48px 48px;
+    border: 1px solid white;
+    box-shadow: 0px 4px 8px #adc8f765;
+    margin-top: 32px;
+}
+.development-first-block, .development-second-block, .development-third-block{
+    display:flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top:32px;
+    
+}
